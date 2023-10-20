@@ -576,16 +576,14 @@
     width: 100px;
     height: 100px;
     /* background-color: var(--box-color); */
-    background-color: rgb(227, 236, 232);
+    background-color: rgb(57, 129, 230);
+    /* color: #0066ff; */
     border-radius: 50%;
     box-shadow: var(--outer-shadow);
     transition: 0.9s ease-in-out !important;
 }
 
-.carousel-control-prev-icon:hover,
-.carousel-control-next-icon:hover {
-    box-shadow: var(--inner-shadow);
-}
+
 
 /* ================ CLINT SAY SECTION CSS CODE END ================== */
 
