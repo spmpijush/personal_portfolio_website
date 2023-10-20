@@ -62,7 +62,7 @@
 		</div>
 	</div>
 	<div class="mt-5">
-		<p class="text-center text-white">&#169; SPM CREATIVE All Right Reserved . Design And Develope By Pijush Kanti Mandal.</p>
+		<p class="text-center text-white">&#169; APM CREATIVE All Right Reserved . Design And Develope By Pijush Kanti Mandal.</p>
 	</div>
 </div>
 <!-- =============== FOOTER SECTION HTML CODE END ================== -->
